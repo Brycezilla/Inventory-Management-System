@@ -1,0 +1,305 @@
+Early Arrival/Extended Day
+	Brain Flakes:1:bin 1
+	Board Games:8:bin 1
+	Deck of Cards:4:bin 1
+	Crayola Markers:4:bin 1
+	Coloring Books:6:bin 1
+	Assorted Toys:4:bin 1
+	Magnetic Blocks/Tiles:2:bin 1
+	Straw Building Kits:2:bin 1
+General Classroom Supplies
+	Cold Compress:2:bin 2
+	First Aid Kits:1:bin 2
+	Extra Bandaids:1:bin 2
+	Expo Makers:10:bin 2
+	Director Backpack:2:bin 2
+	Paper Reams:2:bin 2
+	Binder:2:bin 2
+	Lined Paper:2:bin 2
+	Construction Paper:1:2408 or Bust
+	Pencils/Pens Packs:10:bin 2
+	Hand Sanitizer:1050:bin 2
+	Tool Kit:2:bin 2
+	Clear Tape:120:bin 2
+	Scissors:2:bin 2
+	Double A Batteries:8:bin 2
+	Triple A Batteries:8:bin 2
+Red Carpet Event
+	Certificates:1:bin 2
+	Fender Amplifiers:0:bin 4
+	Microphones:164:bin 4
+	Red Carpet:164:bin 4
+General  Tech Supplies
+	Mouse Pads:82:bin 2
+General Tech/Multi-Use Tech Supplies
+	Blue Computers:2:2408 or Bust
+	Blue Computer Charger:164:2408 or Bust
+	Computer Bag:9:2408 or Bust
+	Computer Cloning Materials:2:bin 3
+	Computer Mouse:8:bin 3
+	50 Inch TV:16:2408 or Bust
+	Brother Printer:20:2408 or Bust
+	Extension Cord:8:bin 3
+	Surge Protector:10:bin 3
+	Velcro cable ties for cord management:3:bin 3
+	Ethernet Cord:17:bin 3
+	HDMI Cord:17:bin 3
+	Network Switch:9:bin 3
+	Tablets:0:2408 or Bust
+	Tablet Chargers:3:2408 or Bust
+	Stylus for Tablets:3:2408 or Bust
+	3D Printer:1:2408 or Bust
+	3D Printer Kit (this is 1 kit) - needs 7:4:bin 3
+Recess/Lunch Time
+	Plastic Bats:4:bin 4
+	Base Kits:2:bin 4
+	Wiffle Balls:1:bin 4
+	Soccer Balls:2:bin 4
+	Pumps:2:bin 4
+	Cone Kits:2:bin 4
+	Goals:2:bin 4
+	Corn Hole:1:bin 4
+	Kick Balls:1:bin 4
+	Frisbees:1:bin 4
+	Gator Toss / Can Jam:1:bin 4
+	Bocce Ball Set:1:bin 4
+	Ring Toss:1:bin 4
+	Bottle Bash:1:bin 4
+	Hedbanz:1:bin 4
+	The Floor Is Lava:1:bin 4
+	Find and Seek:1:bin 4
+	Science Trivia:1:bin 4
+	Rapid Rumble:2:bin 4
+	5 Second Rule Jr:2:bin 4
+	Outdoor Chess:3:bin 4
+Welcome/Sign In Table
+	Table:0:bin 4
+	Table Cloth:1:bin 4
+	Chalk Board Sign:2:bin 4
+	Chalk Board Markers:2:bin 4
+	Lawn Signs:17:bin 5
+	Lawn Stake:14:bin 5
+	Back Drop Sign:2:2408 or Bust
+	Back Drop Stand:2:2408 or Bust
+	Masks:4:bin 5
+	Sharpies (Black for VIP Cards):1:bin 5
+	ClipBoards:6:bin 5
+	Tech Rev VIP Cards:1050:bin 5
+	Lanyards:1050:bin 5
+	Flashdrives:1050:bin 5
+	Youth XS Camper Shirts:37:2408 or Bust
+	Youth Small Camper Shirts:241:2408 or Bust
+	Youth Medium Camper Shirt:379:2408 or Bust
+	Youth Large Camper Shirts:199:2408 or Bust
+	Adult Small Camper Shirts:110:2408 or Bust
+	Adult Medium Camper Shirts:36:2408 or Bust
+	Adult Large Camper Shirts:10:2408 or Bust
+	Adult XL Camper Shirts:2:2408 or Bust
+	Adult Small Staff Polo:0:2408 or Bust
+	Adult Medium Staff Polo:33:2408 or Bust
+	Adult Large Staff Polo:21:2408 or Bust
+	Adult XL Staff Polo:15:2408 or Bust
+	Adult 2XL Staff Polo:3:2408 or Bust
+AI - Robotics & Coding with Codey Rocky and Sphero BOLT
+	Codey Rockey:6:bin 6
+	Sphero:5:2408 or Bust
+All-Girls STEAM! (Ages 7-10) and (11-14)
+	Solar Car:9:bin 6
+	Card Board:0:2408 or Bust
+	White Boards:8:bin 6
+	Rubbing Alcohol:1:bin 6
+	Spray Bottle:2:bin 6
+	Plastic Beakers:4:bin 6
+	Pencils:1:bin 6
+	Chromotography Paper:2:bin 6
+	Markers:5:bin 6
+	Yarn:8:bin 6
+	Scissors:9:bin 6
+	Box of Paper Clips:2:bin 6
+	Straws:50:bin 6
+	Cups:18:bin 6
+	Modeling Clay:36:bin 6
+	Rulers:8:bin 6
+Among Us with Strategy & Game Theory
+	Brain Teaser Puzzles:2:bin 6
+	Pencils:1:bin 6
+	Paper:1:bin 6
+	Circuit Kits:0:2408 or Bust
+	Dice:2:bin 6
+	Mini Lego Kits:2:2408 or Bust
+	Double A Batteries:0:2408 or Bust
+	Task Signs:0:2408 or Bust
+	Deck of Cards:2:2408 or Bust
+Artificial Intelligence - Machine Learning & Code Breaking
+	Codey Rocky:0:2408 or Bust
+	Codey Rocky Charger:0:2408 or Bust
+	Sphero:0:2408 or Bust
+	Sphero Charger:0:2408 or Bust
+Coding 101 with Scratch
+	Save Scratch Game Pieces:0:2408 or Bust
+	Blue Painters Tape:1:bin 6
+Computer Skills 101
+	Colored Pencils:1:bin 6
+	Lined Paper:1:bin 6
+	Keyboard Game (Printed):0:bin 6
+Computer Skills 102
+	Computer Parts Bag:1:bin 6
+Digital Art with Framed Art Included
+	Drawing Pencils:2:bin 7
+	Sketchbook:4:bin 7
+Digital Rock Band (Ages 7-10)
+	Headset:7:bin 7
+	Drumpad/Keyboard:3:bin 7
+	Podcast Microphone:3:bin 7
+Engineering with littleBits - Invent & Code
+	Little Bits Kits:5:bin 7
+	Markers:3:bin 7
+	Spoons:10:bin 7
+	Twist Ties:1:bin 7
+	Cups:8:bin 7
+	Scissors:5:bin 7
+	Guitar Cutouts:14:bin 7
+Filmmaking
+	Camcorder:5:bin 7
+	Tripod:5:bin 8
+	Camcorder Bags:3:bin 8
+	SD Cards:6:bin 8
+	Prop Kit:0:bin 8
+	Action Slide:6:bin 8
+Lavner IT Academy (Middle + High School Courses)
+	Arduino Kits:3:bin 8
+	LED Lights:1:bin 8
+	Potentiometer:1:bin 8
+	Temp Sensors:1:bin 8
+	Motor Kit:1:bin 8
+	LCD Display:3:bin 8
+	Jumper Cables:1:bin 8
+	Breadboard:2:bin 8
+National Minecraft World Championship Tournament
+	Trophies:0:bin 8
+National Roblox World Championship Tournament
+	Trophies:0:bin 8
+Pokémon with Games, Strategies & Competitions
+	Pokemon Cards:10:bin 8
+	Pokemon Card Carrier:3:bin 8
+	Mini Salt and Pepper Shakers:0:bin 8
+	Balloons:30:bin 8
+	Ping Pong Balls:30:bin 8
+	Red/Black Sharpies:20:bin 8
+	LE Card Stock Pokemon Cards:40:bin 8
+	Coloring Materials:2:bin 8
+Robotics League: Battles & Competitions with LEGO Mindstorms
+	Mindstorm/EV3:11:bin 11
+	Battle Arena:0:2408 or Bust
+	Painters Tape (Thin):2:bin 9
+	Referee Shirt:0:2408 or Bust
+Robotics with VEX IQ
+	Vex IQ Kit:4:bin 10
+	Battle Arena:0:2408 or Bust
+Roller Coaster Design with STEM Education
+	Knex Rollercoaster Kit:3:bin 11
+	Thames and Cosmos Roller Coaster Kit:5:bin 11
+	Marble Run Coaster Kit:4:bin 11
+	Tape Measurer:1:bin 11
+	Paper or Plastic Cups:10:bin 11
+	Pipe Cleaners:50:bin 11
+	Popsicle Sticks:50:bin 11
+	Construction Paper:0:bin 11
+	Disposible Straws:50:bin 11
+	Card Board:20:bin 11
+Science Discoveries
+	Carboard:0:2408 or Bust
+	Marbles:0:2408 or Bust
+	Ping Pong Balls:0:2408 or Bust
+	Box of Dominos:0:2408 or Bust
+	Toy Cars:0:2408 or Bust
+	Carbdboard Tubes:0:2408 or Bust
+	Ballooons:0:2408 or Bust
+	Small Slinkies:0:2408 or Bust
+	Bouncy balls:0:2408 or Bust
+	Tape:0:2408 or Bust
+	String:0:2408 or Bust
+	Paper Clips:0:2408 or Bust
+	Weights:0:2408 or Bust
+	Glue:0:2408 or Bust
+	Binder Clips:0:2408 or Bust
+	Rubber Bands:0:2408 or Bust
+	Plastic Cups:0:2408 or Bust
+	Dixie Cups:0:2408 or Bust
+	Construction Paper:0:2408 or Bust
+	Cotton Balls:0:2408 or Bust
+	Bendy Straws:0:2408 or Bust
+	Black Construction Paper:0:2408 or Bust
+	Graph Paper:0:2408 or Bust
+	White Gel Pens:0:2408 or Bust
+	Colored Pencils:0:2408 or Bust
+	Popsicle Sticks:0:2408 or Bust
+	Foil:0:2408 or Bust
+	Fan:0:2408 or Bust
+	Pipe Cleaners:0:2408 or Bust
+	Saran Wrap:0:2408 or Bust
+	Disposible thermometers:0:2408 or Bust
+	Brad fasteners:0:2408 or Bust
+	Toothpicks:0:2408 or Bust
+	Bubble Wrap:0:2408 or Bust
+	Playdough:0:2408 or Bust
+	Cellophane Wrap:0:2408 or Bust
+	Transparent Paper:0:2408 or Bust
+	Mini Flashlights:0:2408 or Bust
+	Multi Colored Sharpies:0:2408 or Bust
+	Soil:0:2408 or Bust
+	Fairy Lights:0:2408 or Bust
+	Heat Packs (hand warmers):0:2408 or Bust
+Space and Rockets: Exploring Kerbal Space Program
+	Paper:0:2408 or Bust
+	Scissors:6:bin 12
+	Straws:34:bin 12
+	Pingpong Balls:6:bin 12
+	Construction Paper:1:bin 12
+	Deck of Cards:1:bin 12
+Space Exploration
+	Space Explorers Rover Kit:9:bin 12
+	Construction Paper:1:bin 12
+Spy Tech
+	Extreme 3D Pro Stick:4:bin 13
+	Walkie Talkie:0:2408 or Bust
+	Spy Pen:3:bin 13
+STEM & Medicine
+	ABO-RH Blood Typing Kits:0:2408 or Bust
+	Bacteria Science:4:bin 13
+	Skeleton:1:bin 13
+	Hydraulic Claw Bags:6:bin 13
+	Light Diffraction Prisms:4:bin 13
+	Incubating Light:1:bin 13
+	Diffraction Glasses:10:bin 13
+	Plasitc Cups/Beakers:2:bin 13
+	Multicolored Pipe Cleaners:0:bin 13
+	Beads:1:bin 13
+	Scissors:2:bin 13
+	Tape:0:bin 13
+	Meeples:1:bin 13
+	Wooden Blocks:1:bin 13
+Superhero Camp with STEM Education
+	Pencils/Pens:1:bin 13
+	Colored Pencils:3:bin 13
+	Markers:3:bin 13
+	Capes:17:bin 13
+	Masks:17:bin 13
+	Foam Shapes:2:bin 13
+	Felt:1:bin 13
+	Modge Podge:1:bin 13
+	Fabric Fusion:2:bin 13
+	Paint Brushes:4:bin 13
+	Flags/Bandanas:2:bin 13
+	Cups:32:bin 13
+	Frisbees:0:bin 13
+	Cones:0:bin 13
+	Tape:1:bin 13
+	Tinfoil:6:bin 13
+Video Production for YouTube Camps
+	Headset:14:bin 14
+	Web Cam:14:bin 14
+	Podcasting Microphone:14:bin 14
+	Prop-Kit:2:bin 14
+	Pop-Up Green Screen:2:bin 14
+	Large Green Screen:1:bin 14
